@@ -236,15 +236,18 @@ body{
 	z-index: 0;
 }
 h1{
+	font-family: 'PT Serif', serif;
 	font-size: 2em;
 	color: #5a86d5;
 	font-weight: 400;
 	line-height: 1.2em;
 }
 p{
-	margin:2em 0em;
+	font-family: 'Inconsolata', monospace;
+	margin: 2em 0em;
 }
 form{
+	font-family: 'PT Serif', serif;
 	margin: .5em;
 	background-color: whitesmoke;
 	box-shadow: 5px 10px #a8a8a8;	
