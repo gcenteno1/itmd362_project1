@@ -249,6 +249,7 @@ p{
 form{
 	font-family: 'PT Serif', serif;
 	margin: .5em;
+	padding: 1em;
 	background-color: whitesmoke;
 	box-shadow: 5px 10px #a8a8a8;	
 	z-index: 1;
