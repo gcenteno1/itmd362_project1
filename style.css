@@ -233,6 +233,7 @@ body{
 	height: 100%;
 	background-size: cover;
 	background-position: center;
+	z-index: 0;
 }
 h1{
 	font-size: 2em;
@@ -243,7 +244,8 @@ h1{
 form{
 	margin: .5em;
 	background-color: whitesmoke;
-	box-shadow: 5px 10px #888888;
+	box-shadow: 5px 10px #888888;	
+	z-index: 1;
 }
 form > label, input
   {
