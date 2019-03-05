@@ -232,6 +232,7 @@ body{
 	background-image: url(apparel-casual-clothes-934070.jpg);
 	height: 100%;
 	background-size: cover;
+	background-position: center;
 }
 h1{
 	font-size: 2em;
