@@ -224,8 +224,8 @@ html{
 	height: 100%;
 }
 body{
-	padding: 1em;
-	margin: 1em;
+	padding: 0em;
+	margin: 0em;
 	height: 100%;
 }
 #wrapper{
@@ -259,8 +259,8 @@ li{
 @media screen and (min-width: 480px) {
 	body{
 		background-color: white;
-		padding: 1em;
-		margin: 1em;
+		padding: 0em;
+		margin: 0em;
 		box-shadow: 5px 10px #888888
 	}
 	li{
