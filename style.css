@@ -222,6 +222,9 @@ textarea {
 html{
   background-color: aqua;
 	font-family: "Georgia", serif;
+	background-image: url(apparel-casual-clothes-934070.jpg);
+	height: 100%;
+	background-size: cover;
 }
 body{
 	padding: 1em;
