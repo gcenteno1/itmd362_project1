@@ -243,7 +243,8 @@ h1{
 	line-height: 1.2em;
 }
 p{
-	font-family: 'Inconsolata', monospace;
+	font-family: 'Inconsolata', monospace;	
+	line-height: 1.3em;
 	margin: 2em 0em;
 }
 form{
