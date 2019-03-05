@@ -230,7 +230,7 @@ body{
 }
 #wrapper{
 	padding: 2em;
-	background: linear-gradient(white 1%, transparent 99% ), url("itmd362_project1/apparel-casual-clothes-934070.jpg") no-repeat center; 	
+	background: linear-gradient(white 1%, transparent 99% ), url("apparel-casual-clothes-934070.jpg") no-repeat center; 	
 	height: 100%;
 	background-size: cover;
 	z-index: 0;
