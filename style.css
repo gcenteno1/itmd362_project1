@@ -221,10 +221,12 @@ textarea {
 
 html{
 	font-family: "Georgia", serif;
+	height: 100%;
 }
 body{
 	padding: 1em;
 	margin: 1em;
+	height: 100%;
 }
 #wrapper{
 	background-image: url(apparel-casual-clothes-934070.jpg);
