@@ -220,15 +220,16 @@ textarea {
 /* start my css */
 
 html{
-  background-color: aqua;
 	font-family: "Georgia", serif;
-	background-image: url(apparel-casual-clothes-934070.jpg);
-	height: 100%;
-	background-size: cover;
 }
 body{
 	padding: 1em;
 	margin: 1em;
+}
+#wrapper{
+	background-image: url(apparel-casual-clothes-934070.jpg);
+	height: 100%;
+	background-size: cover;
 }
 h1{
 	font-size: 2em;
@@ -236,7 +237,6 @@ h1{
 	font-weight: 400;
 	line-height: 1.2em;
 }
-
 form{
 	margin: .5em;
 	box-shadow: 5px 10px #888888;
