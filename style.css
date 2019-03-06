@@ -273,6 +273,25 @@ li{
 		padding: 0em;
 		margin: 0em;
 		box-shadow: 5px 10px #888888
+	}	
+	#wrapper{
+		padding: 2em;
+	}
+	#wrapper > form {
+		width: 50%;
+		position: absolute;
+		left: 33em;
+		bottom: 24em;
+	}
+	#wrapper > p{
+		width:40%;
+		margin:1em 0em;
+		font-size: 1.2em;
+		line-height: 1.8em;
+	}
+	#wrapper h1{
+		font-size: 4em;
+		width:30%;
 	}
 	li{
 		width:90%;
