@@ -294,7 +294,8 @@ li{
 		width:30%;
 	}
 	li{
-		width:90%;
+		line-height: 2em; 
+		width:90%;	
 	}
 	#button{
 		background-color:lightcoral;
