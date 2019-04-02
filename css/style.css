@@ -1,5 +1,5 @@
 html{
-	font-family: "Georgia", arial, serif;
+	font-family: "Georgia", serif, arial;
 	height: 100%;
 }
 body{
@@ -15,14 +15,14 @@ body{
 	z-index: 0;
 }
 h1{
-	font-family: 'PT Serif', arial, serif;
+	font-family: 'PT Serif', serif, arial;
 	font-size: 3em;
 	color: #5a86d5;
 	font-weight: 400;
 	line-height: 1.2em;
 }
 p{
-	font-family: 'Inconsolata', arial, monospace;	
+	font-family: 'Inconsolata', monospace, arial;	
 	line-height: 1.3em;
 	margin: 2em 0em;
 	width: 30%;
