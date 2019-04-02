@@ -25,7 +25,6 @@ p{
 	font-family: 'Inconsolata', monospace, arial;	
 	line-height: 1.3em;
 	margin: 2em 0em;
-	width: 30%;
 }
 form{
 	font-family: 'PT Serif', arial, serif;
@@ -76,7 +75,7 @@ li{
 		bottom: 18em;
 	}
 	#wrapper > p{
-		width:40%;
+		width:30%;
 		margin:1em 0em;
 		font-size: 1.2em;
 		line-height: 1.8em;
