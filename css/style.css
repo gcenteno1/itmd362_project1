@@ -42,9 +42,6 @@ form > label, input
 li{
 	padding:5px 0px;
 }
-ul.a {
-  list-style-type: circle;
-}
 #button{
 	background-color: lightcoral;
 	color:white;
